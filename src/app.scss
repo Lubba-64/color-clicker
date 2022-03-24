@@ -1,0 +1,24 @@
+.__reg_text__ {
+  font-size: 3vmin;
+}
+
+p {
+  @extend .__reg_text__;
+}
+
+.__title__ {
+  font-size: 7vmin;
+}
+
+h1 {
+  @extend .__title__;
+}
+
+.__below_rainbow__ {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  width: 50vmin;
+  height: 35vmin;
+}
