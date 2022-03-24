@@ -1,6 +1,6 @@
 # color-clicker
 
-To starty just enter a name and click play.
+To start just enter a name and click play.
 
 When you start you will see some text that has a mismatching color and color related word.
 
